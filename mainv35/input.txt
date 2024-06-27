@@ -1,0 +1,27 @@
+M by N: 6 6
+steps: 200
+robots: 24
+RoboCop                PCY1      0         0
+Terminator             Sharaf1   1         1
+TerminatorRoboCop      LKC1      0         1
+BlueThunder            Bau1      2         2
+Madbot                 LSL1      2         random
+RoboTank               Goh1      random    random
+UltimateRobot          NgHu1     random    random
+Joker                  Zach1     random    random
+RoboCop                PCY2      random    random
+Terminator             Sharaf2   random    random
+TerminatorRoboCop      LKC2      random    random
+BlueThunder            Bau2      random    random
+Madbot                 LSL2      random    random
+RoboTank               Goh2      random    random
+UltimateRobot          NgHu2     random    random
+Joker                  Zach2     random    random
+RoboCop                PCY3      random    random
+Terminator             Sharaf3   random    random
+TerminatorRoboCop      LKC3      random    random
+BlueThunder            Bau3      random    random
+Madbot                 LSL3      random    random
+RoboTank               Goh3      random    random
+UltimateRobot          NgHu3     random    random
+Joker                  Zach3     random    random
