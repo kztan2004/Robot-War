@@ -21,6 +21,7 @@ Robot::Robot(const Robot *other)
     Bptr = other->Bptr;
     outfile = other->outfile;
     killCount = 0;
+    active = true;
     resetTarget();
 }
 
